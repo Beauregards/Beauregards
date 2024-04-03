@@ -2,7 +2,8 @@
 I'm a data engineerr, specializing in building exceptional datapipelines, and machine- and deep learning models, and everything in between.
 
 <H2>🛠 Tech Stack</H2>
-* 📜 Language: <div><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy" alt="sf" width="40" height="40"/></div>
+* 📜 Language: <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="20" height="20"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy" alt="sf" width="20" height="20"/>
+
 
 
 
