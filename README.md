@@ -17,7 +17,11 @@ I'm a data engineerr, specializing in building exceptional datapipelines, and ma
 
 
 
- 
+ * ⚙️ VCS: [Git](https://git-scm.com/), [GitHub](https://github.com/), [Bitbucket](https://bitbucket.org/)
+* 🔧 IDE's: [Visual Studio Code](https://code.visualstudio.com/), [PyCharm](https://www.jetbrains.com/pycharm/), [DataGrip](https://www.jetbrains.com/datagrip/)
+* 🖥 Design: [Photoshop](https://www.adobe.com/products/photoshop.html), [MidJourney](https://www.midjourney.com/)
+* ♾️ Devops: [Microsoft Azure](https://azure.microsoft.com/), [Databricks](https://databricks.com/), [Docker](https://www.docker.com/)
+* 👀 Interests: in Data science and Data Engineering
   
 
 
