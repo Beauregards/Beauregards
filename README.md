@@ -4,26 +4,15 @@ I'm a data engineerr, specializing in building exceptional datapipelines, and ma
 
 <H2>🛠 Tech Stack</H2>
 
-📜  Language:  Python, Numpy
-🗄  Backend:   Flask, FastAPI
-🛢  Database:  MySQL Postgresql
-🌐  Frontend:  BootStrap
-⚙️  VCS:       Git, GitHub, Bitbucket
-🔧  IDE's:     Visual Studio Code, PyCharm, DataGrip
-🖥  Design:    Photoshop, MidJourney
-♾️  Devops:    Microsoft Azure, Databricks, Docker
-👀  Interests: in Data science and Data Engineering
-
-
-
-🗄  Backend:  Node.js ExpressJS NestJS 🌐  Frontend:  React Angular Next.js 🛢  Database:  MongoDB MySQL Postgresql ⚙️  VCS:   Git GitHub Bitbucket 🔧  IDE's:  Visual Studio Code Sublime Text 🖥  Design:  AdobeXD Figma ♾️  Devops:  Docker
-
-
-
-- 🌱 I’m currently learning Python, SQL, Deep Learning, Machine Learning en Data Visualization
-- 💞️ I’m looking to collaborate on OCR and DwH optimization projects
-- 📫 How to reach me on Github or on LinkedIn
-
+📜  Language:  Python, Numpy<br>
+🗄  Backend:   Flask, FastAPI<br>
+🛢  Database:  MySQL Postgresql<br>
+🌐  Frontend:  BootStrap<br>
+⚙️  VCS:       Git, GitHub, Bitbucket<br>
+🔧  IDE's:     Visual Studio Code, PyCharm, DataGrip<br>
+🖥  Design:    Photoshop, MidJourney<br>
+♾️  Devops:    Microsoft Azure, Databricks, Docker<br>
+👀  Interests: in Data science and Data Engineering<br>
 
 
 <!---
