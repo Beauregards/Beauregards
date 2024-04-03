@@ -1,4 +1,4 @@
-<H1><B> Welcome,👋, I’m @Beauregard,</B></H1>
+<H1><B> Welcome👋, I’m @Beauregard,</B></H1>
 I'm a data engineerr, specializing in building exceptional datapipelines, and machine- and deep learning models, and everything in between.
 
 <H2>🛠 Tech Stack</H2>
