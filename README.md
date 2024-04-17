@@ -3,6 +3,16 @@ I'm a data engineerr, specializing in building exceptional datapipelines, and ma
 
 <H2>🛠 Tech Stack</H2>
 
+  <div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="numpy" alt="numpy" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" title="github.com" alt="github.com" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+</div>
+
 * 📜 Language: [Python](https://www.python.org/), [Numpy](https://numpy.org/), [Pandas](https://pandas.pydata.org/), [Polars](https://pola.rs/)
 * 🗄 Backend: [Scikit-learn](https://scikit-learn.org/), [PyTorch](https://pytorch.org/)
 * 🛢 Database: [FastAPI](https://fastapi.tiangolo.com/), [PostmanAPI](https://www.postman.com/), [MySQL](https://www.mysql.com/), [PostgresSQL](https://www.postgresql.org/)
@@ -13,17 +23,12 @@ I'm a data engineerr, specializing in building exceptional datapipelines, and ma
 * ♾️ Devops: [Microsoft Azure](https://azure.microsoft.com/), [Databricks](https://databricks.com/)
 * 👀 Interests: Data science and Data Engineering
 
+---
+### :fire: My Stats :
+
+https://github-readme-streak-stats.herokuapp.com/?user=Beauregards
 
 
-  <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="numpy" alt="numpy" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" title="github.com" alt="github.com" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-</div>
 
 <!---
 Beauregards/Beauregards is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
