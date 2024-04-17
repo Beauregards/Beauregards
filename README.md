@@ -1,7 +1,17 @@
 <H1><B> Welcome👋, I’m @Beauregard,</B></H1>
 
 ### About Me:
-I'm a data engineer, specializing in building exceptional datapipelines, and machine- and deep learning models, and everything in between. Cloud engineering with Azure, building and deploy machine learning models with Databricks.</br>
+I'm a data engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from The Netherlands.
+
+- :telescope: I’m working as a Data Engineer and building exceptional (ETL) datapipelines, machine- and deep learning models, and everything in between.
+
+- :seedling: Cloud engineering with Azure, building and deploy machine learning models with Databricks.
+
+- :zap: In my free time, I work on the automation of a customer sevice projects, a OCR project, and a car recognition deep learning project.
+
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/)
+
+
 
 <div id="badges">
   <a href="https://www.linkedin.com/">
@@ -12,9 +22,8 @@ I'm a data engineer, specializing in building exceptional datapipelines, and mac
   </a>
   <a href="https://twitter.com/">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+  </a>  
 </div>
-
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
@@ -26,9 +35,9 @@ I'm a data engineer, specializing in building exceptional datapipelines, and mac
   <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
 </div>
 
----
 * 📜 Language: [Python](https://www.python.org/), [Numpy](https://numpy.org/), [Pandas](https://pandas.pydata.org/), [Polars](https://pola.rs/)
 * 🗄 Backend: [Scikit-learn](https://scikit-learn.org/), [PyTorch](https://pytorch.org/)
 * 🛢 Database: [FastAPI](https://fastapi.tiangolo.com/), [PostmanAPI](https://www.postman.com/), [MySQL](https://www.mysql.com/), [PostgresSQL](https://www.postgresql.org/)
@@ -41,7 +50,6 @@ I'm a data engineer, specializing in building exceptional datapipelines, and mac
 
 ---
 ### :fire: My Stats :
-
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Beauregards&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Beauregards&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
