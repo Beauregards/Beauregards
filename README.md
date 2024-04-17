@@ -1,6 +1,7 @@
 <H1><B> Welcome👋, I’m @Beauregard,</B></H1>
+
 ### :Data Engineer: About Me:
-I'm a data engineerr, specializing in building exceptional datapipelines, and machine- and deep learning models, and everything in between.
+I'm a data engineerr, specializing in building exceptional datapipelines, and machine- and deep learning models, and everything in between. </br>
 
 <div id="badges">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
