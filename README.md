@@ -1,8 +1,13 @@
 <H1><B> Welcome👋, I’m @Beauregard,</B></H1>
+
+
+### :Data Engineer: About Me :
+
 I'm a data engineerr, specializing in building exceptional datapipelines, and machine- and deep learning models, and everything in between.
 
-<H2>🛠 Tech Stack</H2>
 
+---
+### :hammer_and_wrench: Languages and Tools :
   <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="numpy" alt="numpy" width="40" height="40"/>&nbsp;
@@ -13,6 +18,7 @@ I'm a data engineerr, specializing in building exceptional datapipelines, and ma
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
 </div>
 
+---
 * 📜 Language: [Python](https://www.python.org/), [Numpy](https://numpy.org/), [Pandas](https://pandas.pydata.org/), [Polars](https://pola.rs/)
 * 🗄 Backend: [Scikit-learn](https://scikit-learn.org/), [PyTorch](https://pytorch.org/)
 * 🛢 Database: [FastAPI](https://fastapi.tiangolo.com/), [PostmanAPI](https://www.postman.com/), [MySQL](https://www.mysql.com/), [PostgresSQL](https://www.postgresql.org/)
