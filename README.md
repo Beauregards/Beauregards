@@ -1,6 +1,6 @@
 <H1><B> Welcome👋, I’m @Beauregard,</B></H1>
 
-### :Data Engineer: About Me:
+### Data Engineer: About Me:
 I'm a data engineerr, specializing in building exceptional datapipelines, and machine- and deep learning models, and everything in between. </br>
 
 <div id="badges">
