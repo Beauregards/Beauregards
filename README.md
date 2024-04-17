@@ -3,7 +3,7 @@
 ### About Me:
 I'm a data engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from The Netherlands.
 
-- :telescope: I’m working as a Data Engineer and building exceptional (ETL) datapipelines, machine- and deep learning models, and everything in between.
+- :telescope: Building exceptional (ETL) datapipelines, machine- and deep learning models, and everything in between.
 - :seedling: Cloud engineering with Azure, building and deploy machine learning models with Databricks.
 - :zap: In my free time, I work on the automation of a customer sevice projects, a OCR project, and a car recognition deep learning project.
 
