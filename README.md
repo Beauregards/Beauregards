@@ -27,6 +27,7 @@ I'm a data engineerr, specializing in building exceptional datapipelines, and ma
 ### :fire: My Stats :
 
 https://github-readme-streak-stats.herokuapp.com/?user=Beauregards
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Beauregards&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
 
