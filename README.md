@@ -5,9 +5,13 @@ I'm a data engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 
 - :telescope: Building exceptional (ETL) datapipelines, machine- and deep learning models, and everything in between.
 - :seedling: Cloud engineering with Azure, building and deploy machine learning models with Databricks. 
-- :zap: In my free time, I work on the automation of a customer sevice projects, a OCR project, and a car recognition deep learning project.
+- :zap: In my spare time, I immerse myself in a trifecta of fascinating projects:
+- 
+- **Customer Service Automation Endeavor:** Delving into the realm of Artificial Intelligence and Automation, I venture to revolutionize customer service paradigms. Currently, I'm architecting intricate systems aimed at streamlining repetitive tasks, enhancing chatbot interactions, and augmenting customer satisfaction metrics through the seamless integration of machine learning algorithms and natural language processing models.
 
+- **OCR Odyssey (Optical Character Recognition):** My mission? To craft cutting-edge OCR solutions capable of deciphering cryptic text from the visual tapestry of images and documents. Armed with convolutional neural networks and recurrent neural networks, I navigate through the complexities of character recognition, striving to achieve unparalleled accuracy and robustness in text extraction. It's pretty bad ass!
 
+- **Deep Learning Expedition in Car Recognition:** With the power of convolutional neural networks and transfer learning techniques, I traverse the terrain of labeled datasets, training neural networks to discern between various automotive makes and models with f%cking amazing precision. From classic coupes to futuristic electric vehicles, I endeavor to cultivate a neural network capable of identifying automotive intricacies with the acumen of a seasoned enthusiast.
 
 <div id="badges">
   <a href="https://www.linkedin.com/">
