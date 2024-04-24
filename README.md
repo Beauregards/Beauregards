@@ -54,9 +54,9 @@ I'm a data engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 ---
 ### :fire: My Stats
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Beauregards&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Beauregard's Streak](http://github-readme-streak-stats.herokuapp.com?user=Beauregards&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Beauregard's Stats](https://github-readme-stats.vercel.app/api?username=Beauregards&theme=dark&background=000000)](https://github.com/Beauregards/github-readme-stats)
-[![My Favo Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Beauregards&layout=compact&theme=vdark&background=000000)](https://github.com/Beauregards/github-readme-stats)
+[![Beauregard's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Beauregards&layout=compact&theme=vdark&background=000000)](https://github.com/Beauregards/github-readme-stats)
 
 
 
