@@ -14,7 +14,7 @@ I'm a data engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 - **Deep Learning Expedition in Car Recognition:** With the power of convolutional neural networks and transfer learning techniques, I traverse the terrain of labeled datasets, training neural networks to discern between various automotive makes and models with f%cking amazing precision.
 
 - **Algorithmic Trading Bot:** Text will follow soon with the article on Medium.
-- 
+
 
 <div id="badges">
   <a href="https://www.linkedin.com/">
