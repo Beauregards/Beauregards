@@ -58,6 +58,17 @@ I'm a data engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 [![Beauregard's Stats](https://github-readme-stats.vercel.app/api?username=Beauregards&theme=dark&background=000000)](https://github.com/Beauregards/github-readme-stats)
 [![My Favo Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Beauregards&layout=compact&theme=vision-friendly-dark)](https://github.com/Beauregards/github-readme-stats)
 
+
+
+
+---
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+
+
 <!---
 Beauregards/Beauregards is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
