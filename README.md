@@ -7,11 +7,14 @@ I'm a data engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 - :seedling: Cloud engineering with Azure, building and deploy machine learning models with Databricks. 
 - :zap: In my spare time, I immerse myself in a trifecta of fascinating projects:
 
-- **Customer Service Automation:** Delving into the realm of Artificial Intelligence and Automation, I venture to revolutionize customer service paradigms. Currently, I'm architecting intricate systems aimed at streamlining repetitive tasks, enhancing chatbot interactions, and augmenting customer satisfaction metrics through the seamless integration of machine learning algorithms and natural language processing models.
+- **Customer Service Automation:** I'm delving into the realm of Artificial Intelligence and Automation. Currently, I'm architecting intricate systems aimed at streamlining repetitive tasks, enhancing chatbot interactions, and augmenting customer satisfaction metrics through the seamless integration of machine learning algorithms and natural language processing models. Together with the use of API's, LLM's, and a great logic, I've lowered Customer Service costs over 57% within 6 months.
 
-- **OCR Odyssey (Optical Character Recognition):** My mission? To craft cutting-edge OCR solutions capable of deciphering cryptic text from the visual tapestry of images and documents. Armed with convolutional neural networks and recurrent neural networks, I navigate through the complexities of character recognition, striving to achieve unparalleled accuracy and robustness in text extraction. It's pretty bad ass!
+- **OCR Odyssey (Optical Character Recognition):** My mission? To craft cutting-edge OCR solutions capable of deciphering cryptic text from the visual tapestry of images and documents. How? Simply with convolutional neural networks and recurrent neural networks, striving to achieve unparalleled accuracy and robustness in text extraction. It's pretty bad ass!
 
-- **Deep Learning Expedition in Car Recognition:** With the power of convolutional neural networks and transfer learning techniques, I traverse the terrain of labeled datasets, training neural networks to discern between various automotive makes and models with f%cking amazing precision. From classic coupes to futuristic electric vehicles, I endeavor to cultivate a neural network capable of identifying automotive intricacies with the acumen of a seasoned enthusiast.
+- **Deep Learning Expedition in Car Recognition:** With the power of convolutional neural networks and transfer learning techniques, I traverse the terrain of labeled datasets, training neural networks to discern between various automotive makes and models with f%cking amazing precision.
+
+- **Algorithmic Trading Bot:** Text will follow soon with the article on Medium.
+- 
 
 <div id="badges">
   <a href="https://www.linkedin.com/">
