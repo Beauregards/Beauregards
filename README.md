@@ -61,15 +61,6 @@ I'm a data engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 
 
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Beauregards&layout=compact)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Beauregards&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Beauregards&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Beauregards&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
-
----
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Beauregards)](https://github.com/anuraghazra/github-readme-stats)
-
-
 <!---
 Beauregards/Beauregards is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
