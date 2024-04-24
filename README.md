@@ -1,6 +1,6 @@
 <H1><B> Welcome👋, I’m @Beauregard,</B></H1>
 
-### About Me:
+### About Me
 I'm a data engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from The Netherlands.
 
 - :telescope: Building exceptional (ETL) datapipelines, machine- and deep learning models, and everything in between.
@@ -29,7 +29,7 @@ I'm a data engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 </div>
 
 ---
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages and Tools
   <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="numpy" alt="numpy" width="40" height="40"/>&nbsp;
@@ -52,7 +52,7 @@ I'm a data engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 * 👀 Interests: Data science and Data Engineering
 
 ---
-### :fire: My Stats :
+### :fire: My Stats
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Beauregards&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Beauregard's Stats](https://github-readme-stats.vercel.app/api?username=Beauregards&theme=dark&background=000000)](https://github.com/Beauregards/github-readme-stats)
@@ -63,10 +63,6 @@ I'm a data engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 
 
 <!---
