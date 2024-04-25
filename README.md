@@ -9,7 +9,7 @@ I'm a data engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 
 <details> <summary>Read more about my prjects..</summary>
 
-**Customer Service Automation:**
+- **Customer Service Automation:**
 I’m diving deep into the world of Artificial Intelligence and Automation, where my main gig involves setting up intricate systems. These systems? They’re all about making things easier for everyone involved. By throwing together machine learning algorithms and natural language processing models, and tossing in a dash of API magic and Logic Language Models (LLMs), I managed to slash Customer Service costs by over 57% in just 6 months. How? Well, I’m all about smoothing out those chatbot convos, cutting down on boring, repetitive tasks, and generally making customers happier.
 
 - **OCR Odyssey (Optical Character Recognition):** Picture this: I’m on a mission to crack the code of text hidden within images and documents. Sounds cool, right? Armed with convolutional neural networks (CNNs) and recurrent neural networks (RNNs), I’m all about making sure every word is crystal clear. It’s kind of like decoding a secret message, but with tech.
