@@ -44,7 +44,7 @@ I’m diving deep into the world of Artificial Intelligence and Automation, wher
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
 </div>
 
-<details> <summary>Read more about my prjects..</summary>
+
 * 📜 Language: [Python](https://www.python.org/), [Numpy](https://numpy.org/), [Pandas](https://pandas.pydata.org/), [Polars](https://pola.rs/)
 * 🗄 Backend: [Scikit-learn](https://scikit-learn.org/), [PyTorch](https://pytorch.org/)
 * 🛢 Database: [FastAPI](https://fastapi.tiangolo.com/), [PostmanAPI](https://www.postman.com/), [MySQL](https://www.mysql.com/), [PostgresSQL](https://www.postgresql.org/)
@@ -54,7 +54,6 @@ I’m diving deep into the world of Artificial Intelligence and Automation, wher
 * 🖥 Design: [Photoshop](https://www.adobe.com/products/photoshop.html), [MidJourney](https://www.midjourney.com/)
 * ♾️ Devops: [Microsoft Azure](https://azure.microsoft.com/), [Databricks](https://databricks.com/)
 * 👀 Interests: Data science and Data Engineering
-</details>
 
 ---
 ### :fire: My Stats
@@ -63,7 +62,8 @@ I’m diving deep into the world of Artificial Intelligence and Automation, wher
 [![Beauregard's Stats](https://github-readme-stats.vercel.app/api?username=Beauregards&theme=dark&background=000000)](https://github.com/Beauregards/github-readme-stats)
 [![Beauregard's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Beauregards&layout=compact&theme=dark&background=000000)](https://github.com/Beauregards/github-readme-stats)
 
-
+<details> <summary>Check out my Medium artificial intelligence articles...</summary>
+</details>
 
 ---
 <!---
