@@ -5,8 +5,10 @@ I'm a data engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 
 - :telescope: Building exceptional (ETL) datapipelines, machine- and deep learning models, and everything in between.
 - :seedling: Cloud engineering with Azure, building and deploy machine learning models with Databricks. 
-- :zap: In my spare time, I immerse myself in a trifecta of fascinating projects. <details> <summary>Read more about my prjects..</summary>
+- :zap: In my spare time, I immerse myself in a trifecta of fascinating machine learning projects. Read more below...
 
+
+<details> <summary>Read more about my prjects..</summary>
 - **Customer Service Automation:**
 I’m diving deep into the world of Artificial Intelligence and Automation, where my main gig involves setting up intricate systems. These systems? They’re all about making things easier for everyone involved. By throwing together machine learning algorithms and natural language processing models, and tossing in a dash of API magic and Logic Language Models (LLMs), I managed to slash Customer Service costs by over 57% in just 6 months. How? Well, I’m all about smoothing out those chatbot convos, cutting down on boring, repetitive tasks, and generally making customers happier.
 
