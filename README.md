@@ -7,13 +7,13 @@ I'm a data engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 - :seedling: Cloud engineering with Azure, building and deploy machine learning models with Databricks. 
 - :zap: In my spare time, I immerse myself in a trifecta of fascinating projects:
 
-- **Customer Service Automation:** I'm delving into the realm of Artificial Intelligence and Automation. Currently, I'm architecting intricate systems aimed at streamlining repetitive tasks, enhancing chatbot interactions, and augmenting customer satisfaction metrics through the seamless integration of machine learning algorithms and natural language processing models. Together with the use of API's, LLM's, and a great logic, I've lowered Customer Service costs over 57% within 6 months.
+- **Customer Service Automation:** I’m diving deep into the world of Artificial Intelligence and Automation, where my main gig involves setting up intricate systems. These systems? They’re all about making things easier for everyone involved. By throwing together machine learning algorithms and natural language processing models, and tossing in a dash of API magic and Logic Language Models (LLMs), I managed to slash Customer Service costs by over 57% in just 6 months. How? Well, I’m all about smoothing out those chatbot convos, cutting down on boring, repetitive tasks, and generally making customers happier.
 
-- **OCR Odyssey (Optical Character Recognition):** My mission? To craft cutting-edge OCR solutions capable of deciphering cryptic text from the visual tapestry of images and documents. How? Simply with convolutional neural networks and recurrent neural networks, striving to achieve unparalleled accuracy and robustness in text extraction. It's pretty bad ass!
+- **OCR Odyssey (Optical Character Recognition):** Picture this: I’m on a mission to crack the code of text hidden within images and documents. Sounds cool, right? Armed with convolutional neural networks (CNNs) and recurrent neural networks (RNNs), I’m all about making sure every word is crystal clear. It’s kind of like decoding a secret message, but with tech.
 
-- **Deep Learning Expedition in Car Recognition:** With the power of convolutional neural networks and transfer learning techniques, I traverse the terrain of labeled datasets, training neural networks to discern between various automotive makes and models with f%cking amazing precision.
+- **Deep Learning Expedition in Car Recognition:** Deep Learning Expedition in Car Recognition: So, here’s the deal: I’m using nerdy stuff like convolutional neural networks and transfer learning techniques to teach computers to tell cars apart. It’s like training a super-smart pet, but instead of tricks, they’re learning to recognize different car models. And trust me, they’re getting pretty darn good at it!
 
-- **Algorithmic Trading Bot:** Text will follow soon with the article on Medium.
+- **Algorithmic Trading Bot:** Stay tuned for my next Medium article, where I spill the beans on my latest project: an algorithmic trading bot. It’s like having a digital stockbroker, but cooler. I’ll be sharing all the juicy details soon, so keep your eyes peeled!
 
 
 <div id="badges">
