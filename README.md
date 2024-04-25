@@ -7,8 +7,6 @@ I'm a data engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 - :seedling: Cloud engineering with Azure, building and deploy machine learning models with Databricks. 
 - :zap: In my spare time, I immerse myself in a trifecta of fascinating machine learning projects. Read more below...
 
-
-<details> <summary>Read more about my prjects..</summary>
 - **Customer Service Automation:**
 I’m diving deep into the world of Artificial Intelligence and Automation, where my main gig involves setting up intricate systems. These systems? They’re all about making things easier for everyone involved. By throwing together machine learning algorithms and natural language processing models, and tossing in a dash of API magic and Logic Language Models (LLMs), I managed to slash Customer Service costs by over 57% in just 6 months. How? Well, I’m all about smoothing out those chatbot convos, cutting down on boring, repetitive tasks, and generally making customers happier.
 
@@ -19,7 +17,7 @@ I’m diving deep into the world of Artificial Intelligence and Automation, wher
 - **Algorithmic Trading Bot:** Stay tuned for my next Medium article, where I spill the beans on my latest project: an algorithmic trading bot. It’s like having a digital stockbroker, but cooler. I’ll be sharing all the juicy details soon, so keep your eyes peeled!
 
 
-</details>
+
 
 <div id="badges">
   <a href="https://www.linkedin.com/">
@@ -46,6 +44,7 @@ I’m diving deep into the world of Artificial Intelligence and Automation, wher
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
 </div>
 
+<details> <summary>Read more about my prjects..</summary>
 * 📜 Language: [Python](https://www.python.org/), [Numpy](https://numpy.org/), [Pandas](https://pandas.pydata.org/), [Polars](https://pola.rs/)
 * 🗄 Backend: [Scikit-learn](https://scikit-learn.org/), [PyTorch](https://pytorch.org/)
 * 🛢 Database: [FastAPI](https://fastapi.tiangolo.com/), [PostmanAPI](https://www.postman.com/), [MySQL](https://www.mysql.com/), [PostgresSQL](https://www.postgresql.org/)
@@ -55,6 +54,7 @@ I’m diving deep into the world of Artificial Intelligence and Automation, wher
 * 🖥 Design: [Photoshop](https://www.adobe.com/products/photoshop.html), [MidJourney](https://www.midjourney.com/)
 * ♾️ Devops: [Microsoft Azure](https://azure.microsoft.com/), [Databricks](https://databricks.com/)
 * 👀 Interests: Data science and Data Engineering
+</details>
 
 ---
 ### :fire: My Stats
