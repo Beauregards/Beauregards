@@ -3,7 +3,7 @@
 ### About Me
 I just started my data engineer career <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> in The Netherlands.
 
-- :telescope: Building exceptional (ETL) datapipelines, machine- and deep learning models, and everything in between.
+- :telescope: Doing my best building exceptional (ETL) datapipelines, machine- and deep learning models, and everything in between.
 - :seedling: Develop cloud engineering skills using Azure, and building and deploy machine learning models with Databricks. 
 - :zap: In my spare time, I immerse myself in a trifecta of fascinating machine learning projects. Read more below...
 
