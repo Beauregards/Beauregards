@@ -1,21 +1,20 @@
 <H1><B> Welcome👋, I’m @Beauregard,</B></H1>
 
 ### About Me
-I'm a data engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from The Netherlands.
+I just started my data engineer career <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> in The Netherlands.
 
 - :telescope: Building exceptional (ETL) datapipelines, machine- and deep learning models, and everything in between.
-- :seedling: Cloud engineering with Azure, building and deploy machine learning models with Databricks. 
+- :seedling: Develop cloud engineering skills using Azure, and building and deploy machine learning models with Databricks. 
 - :zap: In my spare time, I immerse myself in a trifecta of fascinating machine learning projects. Read more below...
 
 - **Customer Service Automation:**
-I’m diving deep into the world of Artificial Intelligence and Automation, where my main gig involves setting up intricate systems. These systems? They’re all about making things easier for everyone involved. By throwing together machine learning algorithms and natural language processing models, and tossing in a dash of API magic and Logic Language Models (LLMs), I managed to slash Customer Service costs by over 57% in just 6 months. How? Well, I’m all about smoothing out those chatbot convos, cutting down on boring, repetitive tasks, and generally making customers happier.
-
-- **OCR Odyssey (Optical Character Recognition):** Picture this: I’m on a mission to crack the code of text hidden within images and documents. Sounds cool, right? Armed with convolutional neural networks (CNNs) and recurrent neural networks (RNNs), I’m all about making sure every word is crystal clear. It’s kind of like decoding a secret message, but with tech.
+I’m diving deep into the world of Artificial Intelligence and Automation, where my main pasion involves setting up intricate systems. Say whuuuut..?? My projects are all about making things easier for everyone involved. By throwing together machine learning algorithms and natural language processing models, and tossing in a dash of API magic and Logic Language Models (LLMs), I managed to slash Customer Service costs by over 67% in just 3 months. How? Well, I’m all about mapping out processes, smoothing out those chatbot convos, cutting down on boring, repetitive tasks, focus on data accessibility for decision-making, strategic planning, and operational efficienc, and generally making customers happier with supaahhhh fast (automated) replies and services.
 
 - **Deep Learning Expedition in Car Recognition:** Deep Learning Expedition in Car Recognition: So, here’s the deal: I’m using nerdy stuff like convolutional neural networks and transfer learning techniques to teach computers to tell cars apart. It’s like training a super-smart pet, but instead of tricks, they’re learning to recognize different car models. And trust me, they’re getting pretty darn good at it!
 
-- **Algorithmic Trading Bot:** Stay tuned for my next Medium article, where I spill the beans on my latest project: an algorithmic trading bot. It’s like having a digital stockbroker, but cooler. I’ll be sharing all the juicy details soon, so keep your eyes peeled!
+- **OCR Odyssey (Optical Character Recognition):** Picture this: I’m on a mission to crack the code of text hidden within images and documents. Sounds cool, right? Armed with convolutional neural networks (CNNs) and recurrent neural networks (RNNs), I’m all about making sure every word is crystal clear. It’s kind of like decoding a secret message, but with tech.
 
+- **Algorithmic Trading Bot:** Stay tuned for my next Medium article, where I spill the beans on my latest project: an algorithmic trading bot. It’s like having a digital stockbroker, but cooler. I’ll be sharing all the juicy details soon, so keep your eyes peeled!
 
 
 
