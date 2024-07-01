@@ -44,7 +44,7 @@ My projects are all about making things easier for everyone involved. By throwin
 </div>
 
 
-* 📜 Language: [Python](https://www.python.org/), [Numpy](https://numpy.org/), [Pandas](https://pandas.pydata.org/), [Polars](https://pola.rs/)
+* 📜 Language: [Python](https://www.python.org/), [Numpy](https://numpy.org/), [Pandas](https://pandas.pydata.org/)
 * 🗄 Backend: [Scikit-learn](https://scikit-learn.org/), [PyTorch](https://pytorch.org/)
 * 🛢 Database: [FastAPI](https://fastapi.tiangolo.com/), [PostmanAPI](https://www.postman.com/), [MySQL](https://www.mysql.com/), [PostgresSQL](https://www.postgresql.org/)
 * 🌐 Frontend: [Bootstrap](https://getbootstrap.com/)
