@@ -59,7 +59,8 @@ I’m diving deep into the world of Automation, where my main pasion involves se
 ---
 ### :fire: My Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=Beauregards&theme=travelers-theme&border_radius=5&mode=weekly)](https://git.io/streak-stats)
-[![Beauregard's Streak](http://github-readme-streak-stats.herokuapp.com?user=Beauregards&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Beauregards&theme=travelers-theme&border_radius=5&mode=weekly&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
+
 [![Beauregard's Stats](https://github-readme-stats.vercel.app/api?username=Beauregards&theme=dark&background=000000)](https://github.com/Beauregards/github-readme-stats)
 [![Beauregard's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Beauregards&layout=compact&theme=dark&background=000000)](https://github.com/Beauregards/github-readme-stats)
 
