@@ -7,14 +7,16 @@ I'm your friendly neighbourhood Data Engineer <img src="https://media.giphy.com/
 - :seedling: Develop cloud engineering skills using Azure, and building and deploy machine learning models with Databricks. 
 - :zap: In my spare time, I immerse myself in a trifecta of fascinating machine learning projects. Read more below...
 
-### **Customer Service Automation:**
+### My projects
+
+**Customer Service Automation:**
 I’m diving deep into the world of Automation, where my main pasion involves setting up intricate systems. Say whuuut... I managed to slash Customer Service costs by over 73.66% in just 1 months. I’m all about mapping out processes, focus on data accessibility for data driven decision-making, cutting down on boring and repetitive tasks, and generally making customers happier with supaahhhh fast automated services. This projects isall about making things easier for everyone involved.
 
-### **Car Recognition with Deep Learning:** Deep Learning Expedition in Car Recognition: So, here’s the deal: I’m using nerdy stuff like convolutional neural networks and transfer learning techniques to teach computers to tell cars apart. It’s like training a super-smart pet, but instead of tricks, they’re learning to recognize different car models. And trust me, they’re getting pretty darn good at it!
+**Car Recognition with Deep Learning:** Deep Learning Expedition in Car Recognition: So, here’s the deal: I’m using nerdy stuff like convolutional neural networks and transfer learning techniques to teach computers to tell cars apart. It’s like training a super-smart pet, but instead of tricks, they’re learning to recognize different car models. And trust me, they’re getting pretty darn good at it!
 
-### **OCR (Optical Character Recognition):** Picture this: I’m on a mission to crack the code of text hidden within images and documents. Sounds cool, right? Thanks to convolutional neural networks (CNNs) and recurrent neural networks (RNNs), I’m able decoding old documents into digitized documents and datasets.
+**OCR (Optical Character Recognition):** Picture this: I’m on a mission to crack the code of text hidden within images and documents. Sounds cool, right? Thanks to convolutional neural networks (CNNs) and recurrent neural networks (RNNs), I’m able decoding old documents into digitized documents and datasets.
 
-### **Algorithmic Trading Bot:** Stay tuned for my next Medium article, where I spill the beans on my latest project: an algorithmic trading bot. It’s like having a digital stockbroker, but much cooler. I’ll be sharing all the juicy details soon, so keep your eyes peeled!
+**Algorithmic Trading Bot:** Stay tuned for my next Medium article, where I spill the beans on my latest project: an algorithmic trading bot. It’s like having a digital stockbroker, but much cooler. I’ll be sharing all the juicy details soon, so keep your eyes peeled!
 
  <!--<div id="badges">
   <a href="https://www.linkedin.com/">
