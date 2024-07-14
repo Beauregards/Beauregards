@@ -16,7 +16,7 @@ I’m diving deep into the world of Automation, where my main pasion involves se
 
 **Algorithmic Trading Bot:** Stay tuned for my next Medium article, where I spill the beans on my latest project: an algorithmic trading bot. It’s like having a digital stockbroker, but much cooler. I’ll be sharing all the juicy details soon, so keep your eyes peeled!
 
-
+ <! --
 <div id="badges">
   <a href="https://www.linkedin.com/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -28,7 +28,8 @@ I’m diving deep into the world of Automation, where my main pasion involves se
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>  
 </div>
-
+ -->
+ 
 ---
 ### :hammer_and_wrench: Languages and Tools
   <div>
