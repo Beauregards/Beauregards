@@ -9,7 +9,7 @@ I'm your friendly neighbourhood Data Engineer <img src="https://media.giphy.com/
 
 ### My projects
 
-**Customer Service Automation:**
+**[Customer Service Automation:](https://github.com/Beauregards/AutomateCustomerService),**
 I’m diving deep into the world of Automation, where my main pasion involves setting up intricate systems. Say whuuut... I managed to slash Customer Service costs by over 73.66% in just 1 months. I’m all about mapping out processes, focus on data accessibility for data driven decision-making, cutting down on boring and repetitive tasks, and generally making customers happier with supaahhhh fast automated services. This projects isall about making things easier for everyone involved.
 
 **Car Recognition with Deep Learning:** So, here’s the deal: I’m using cool stuff like convolutional neural networks and transfer learning techniques to teach computers to tell cars apart. It’s like training a super-smart pet, but instead of tricks, they’re learning to recognize different car models. And trust me, they’re pretty darn good and fast at it!
