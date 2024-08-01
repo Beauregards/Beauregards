@@ -1,4 +1,4 @@
-<H1><B> Welcome👋, I’m @Beauregard,</B></H1>
+<H1><B> Welcome 🍌, I’m @Beauregard,</B></H1>
 
 ### About Me
 I'm your friendly neighbourhood Data Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. After working 7 years as a financial professional, I changed careers in 2023 by flollowing a 5 month Data Science bootcamp at Le Wagon, the worlds 1st ranked tech bootcamp. Two days after the bootcamp I started my first IT-job as a junior data engineer career for a credit management organization. Now I'm pursue something more fulfilling. Changing carreers was the best choice ever!
