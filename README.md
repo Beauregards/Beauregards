@@ -9,14 +9,14 @@ I'm your friendly neighbourhood Data Engineer <img src="https://media.giphy.com/
 
 ### My projects
 
-**[Customer Service Automation:](https://github.com/Beauregards/AutomateCustomerService),**
+**[Customer Service Automation:](https://github.com/Beauregards/AutomateCustomerService)**
 I’m diving deep into the world of Automation, where my main pasion involves setting up intricate systems. Say whuuut... I managed to slash Customer Service costs by over 73.66% in just 1 months. I’m all about mapping out processes, focus on data accessibility for data driven decision-making, cutting down on boring and repetitive tasks, and generally making customers happier with supaahhhh fast automated services. This projects isall about making things easier for everyone involved.
 
-**Car Recognition with Deep Learning:** So, here’s the deal: I’m using cool stuff like convolutional neural networks and transfer learning techniques to teach computers to tell cars apart. It’s like training a super-smart pet, but instead of tricks, they’re learning to recognize different car models. And trust me, they’re pretty darn good and fast at it!
+**[Car Recognition with Deep Learning:](https://github.com/Beauregards/LicensePlateDetectionandOCR)** So, here’s the deal: I’m using cool stuff like convolutional neural networks and transfer learning techniques to teach computers to tell cars apart. It’s like training a super-smart pet, but instead of tricks, they’re learning to recognize different car models. And trust me, they’re pretty darn good and fast at it!
 
-**OCR (Optical Character Recognition):** I’m on a mission to crack the code of text hidden within images and documents. Sounds cool, right? Thanks to convolutional neural networks (CNNs) and recurrent neural networks (RNNs), I’m able decoding old documents into digitized documents and datasets. Why? I'm automating the invoices scanning, so all data end up in the Datawarehouse for further processing.
+**[OCR (Optical Character Recognition):](https://github.com/Beauregards/LicensePlateDetectionandOCR)** I’m on a mission to crack the code of text hidden within images and documents. Sounds cool, right? Thanks to convolutional neural networks (CNNs) and recurrent neural networks (RNNs), I’m able decoding old documents into digitized documents and datasets. Why? I'm automating the invoices scanning, so all data end up in the Datawarehouse for further processing.
 
-**Algorithmic Trading Bot:** Stay tuned for my next Medium article, where I spill the beans on my latest project: an algorithmic trading bot. It’s like having a digital stockbroker, but much cooler. I’ll be sharing all the juicy details soon, so keep your eyes peeled!
+**[Algorithmic Trading Bot:](https://github.com/Beauregards/TradingProject)** Stay tuned for my next Medium article, where I spill the beans on my latest project: an algorithmic trading bot. It’s like having a digital stockbroker, but much cooler. I’ll be sharing all the juicy details soon, so keep your eyes peeled!
 
  <!--<div id="badges">
   <a href="https://www.linkedin.com/">
